@@ -2,7 +2,9 @@
 *.txt
 *.jpg
 *.wav
+*.pyc
 .idea/
 audio_splitted/
 images/
+env/
 __pycache__/ui.cpython-38.pyc
