@@ -1,5 +1,4 @@
 *.mp4
-*.txt
 *.jpg
 *.wav
 *.pyc
@@ -7,4 +6,3 @@
 audio_splitted/
 images/
 env/
-__pycache__/ui.cpython-38.pyc

@@ -1,0 +1,6 @@
+PyQt5==5.15.1
+SpeechRecognition==3.8.1
+pydub==0.24.1
+opencv-python==4.4.0.44
+scikit-image==0.17.2
+moviepy==1.0.3
