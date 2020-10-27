@@ -1,3 +1,8 @@
 *.mp4
 *.txt
 *.jpg
+*.wav
+.idea/
+audio_splitted/
+images/
+__pycache__/ui.cpython-38.pyc
